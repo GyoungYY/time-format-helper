@@ -1,0 +1,22 @@
+{
+  "name": "time-format-helper",
+  "version": "1.0.0",
+  "description": "一个时间转换插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GyoungYY/time-format-helper.git"
+  },
+  "keywords": [
+    "时间格式化"
+  ],
+  "author": "yangguang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GyoungYY/time-format-helper/issues"
+  },
+  "homepage": "https://github.com/GyoungYY/time-format-helper#readme"
+}
